@@ -24,7 +24,7 @@ Recently, I am interested in these areas:
 - Representation Learning
 - End-to-end Text Spotting
 
-<span style="color: red;">**I am looking for an internship~~**</span>
+<!--<span style="color: red;">**I am looking for an internship~~**</span>-->
 
 Education Experience
 ---
@@ -37,6 +37,10 @@ Education Experience
 <!-- - and got **the first place in my major (1/259) with a grade point of 4.02/4.5**. Supervisor: Dr. Min Liu.-->
 <!--Tongkun Guan received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University, Shanghai, China, in 2023.
 and received the B.S. degree in Electrical Engineering and Automation from Hunan University, Changsha, China, in 2020. He is currently pursuing the PhD degree with the MoE Key Lab of Artificial Intelligence, AI Institute, Shanghai Jiao Tong University, and works with his supervisor Dr. Xiaokang Yang and Dr. Wei Shen. He has wide research interests mainly including computer vision, text detection, image processing, and text recognition.-->
+
+Internship Experience
+---
+- **2024/09 - 2025/05** Meituan, Obtained certification for self-developed technology application
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 
