@@ -48,6 +48,7 @@ Internship Experience
 
 Awards and Honors
 --- 
+- National Scholarship for PhD, 2025-9.
 - Wu Honor Class (吴文俊人工智能荣誉博士班), 2024-3
 - Outstanding Graduate Student in Shanghai Jiao Tong University, 2022-12.
 - National Scholarship for graduate student, 2022-9.
