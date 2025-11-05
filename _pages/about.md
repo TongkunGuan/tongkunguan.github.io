@@ -41,7 +41,7 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 Internship Experience
 ---
 - **2024/09 - 2025/05** Meituan, Obtained technology application certification about MLLM
-- **2025/07 - present** QwenVL Team, Tongyi Lab, Alibaba Group
+- **2025/09 - present** QwenVL Team, Tongyi Lab, Alibaba Group
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 
