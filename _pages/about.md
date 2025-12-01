@@ -20,7 +20,6 @@ Hey, I am Tongkun Guan (官同坤). I’m a three-year PhD student of computer s
 
 Recently, I am interested in these areas:
 - Multimodal Large Language Model
-- Text to Image
 - Representation Learning
 - End-to-end Text Spotting
 
