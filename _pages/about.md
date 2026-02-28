@@ -40,7 +40,7 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 Internship Experience
 ---
 - **Meituan** Obtained technology application certification about MLLM
-- **Qwen** Focusing on STEM Perception and Understanding
+- **Qwen** Focused on MLLM post-training
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 
@@ -48,13 +48,13 @@ Internship Experience
 
 Awards and Honors
 --- 
-- National Scholarship for PhD, 2025-9.
-- Wu Honor Class (吴文俊人工智能荣誉博士班), 2024-3
+- **National Scholarship for PhD**, 2025-9.
+- **Wu Honor Class (吴文俊人工智能荣誉博士班)**, 2024-3
 - Outstanding Graduate Student in Shanghai Jiao Tong University, 2022-12.
-- National Scholarship for graduate student, 2022-9.
+- **National Scholarship for M.S.**, 2022-9.
 - Outstanding Undergraduate Student of Hunan Province, 2020-6.  
-- National Scholarship for Undergraduate Student, 2019-9. (1/259)
-- National Scholarship for Undergraduate Student, 2018-9. (1/259)
+- **National Scholarship for Undergraduate Student**, 2019-9. (1/259)
+- **National Scholarship for Undergraduate Student**, 2018-9. (1/259)
 - Pacemaker to Merit Student, 2018-9.
 - Top 10 Outstanding Students of the College, 2019.
 - Provincial Second Prize of National Electronic Design Competition, 2019.  
@@ -71,7 +71,7 @@ Academic Activities
 - Pattern Recognition (PR)
 
 **Conference Services**
-- NeurIPS, CVPR, ICCV, ICLR, ECCV, WACV, PRCV, ACCV, ICDAR
+- NeurIPS, CVPR, ICCV, ICLR, ECCV, AAAI, ACMMM, WACV, PRCV, ACCV
 
 <!-- For more information  
 ===  
