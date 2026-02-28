@@ -66,7 +66,7 @@ Academic Activities
 ---
 
 **Talks & Reports:**  
-[SJTU CS Global Lunch Seminar (上海交通大学计算机系全球午餐会)](https://www.bilibili.com/video/BV1btrjBYEV7/?spm_id_from=333.1387.list.card_archive.click&vd_source=49e1260e88ce19bcd2ee861d18592107) | [机器之心](https://mp.weixin.qq.com/s/dL9wH2XAktxnupl5-K73Aw) | [Journal of Image and Graphics (中国图像图形学报)](https://www.bilibili.com/video/BV1mcLvzYEdx/?spm_id_from=333.1387.list.card_archive.click&vd_source=49e1260e88ce19bcd2ee861d18592107) | [VALSE](https://www.bilibili.com/video/BV1zQ4y1j7YT/?spm_id_from=333.1387.list.card_archive.click&vd_source=49e1260e88ce19bcd2ee861d18592107) | [TechBeat](https://www.bilibili.com/video/BV1aG411o75t/?spm_id_from=333.1387.list.card_archive.click&vd_source=49e1260e88ce19bcd2ee861d18592107)
+[上海交通大学计算机系全球午餐会](https://www.bilibili.com/video/BV1btrjBYEV7/?spm_id_from=333.1387.list.card_archive.click&vd_source=49e1260e88ce19bcd2ee861d18592107) | [机器之心](https://mp.weixin.qq.com/s/dL9wH2XAktxnupl5-K73Aw) | [中国图像图形学报](https://www.bilibili.com/video/BV1mcLvzYEdx/?spm_id_from=333.1387.list.card_archive.click&vd_source=49e1260e88ce19bcd2ee861d18592107) | [VALSE](https://www.bilibili.com/video/BV1zQ4y1j7YT/?spm_id_from=333.1387.list.card_archive.click&vd_source=49e1260e88ce19bcd2ee861d18592107) | [TechBeat](https://www.bilibili.com/video/BV1aG411o75t/?spm_id_from=333.1387.list.card_archive.click&vd_source=49e1260e88ce19bcd2ee861d18592107)
 
 **Journal Services**  
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
