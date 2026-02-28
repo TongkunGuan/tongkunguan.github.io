@@ -16,18 +16,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Hey, I am Tongkun Guan (官同坤). I’m a three-year PhD student of computer science at Shanghai Jiao Tong University, China, supervised by Dr. Xiaokang Yang and Dr. Wei Shen. My Email: gtk0615@sjtu.edu.cn.
+Hey, I am Tongkun Guan (官同坤), a final-year PhD student of computer science at Shanghai Jiao Tong University, China, supervised by Dr. Xiaokang Yang and Dr. Wei Shen. My Email: gtk0615@sjtu.edu.cn.
 
 Recently, I am interested in these areas:
 - Multimodal Large Language Model
 - Representation Learning
 - End-to-end Text Spotting
 
-<!--<span style="color: red;">**I am looking for an internship~~**</span>-->
+<span style="color: red;">**I am looking for a job~~**</span>
 
 Education Experience
 ---
-- **2023/04 - now** I am pursuing my PhD degree at Artificial Intelligence Institute, Department of Computer Science and Engineering, Shanghai Jiao Tong University (上海交通大学), Shanghai, China. Supervisor: [Prof. Xiaokang Yang](http://www.sjtudri.com/page228) and [Prof. Wei Shen](https://shenwei1231.github.io/).
+- **2023/04 - 2027/03** I am pursuing my PhD degree at Artificial Intelligence Institute, Department of Computer Science and Engineering, Shanghai Jiao Tong University (上海交通大学), Shanghai, China. Supervisor: [Prof. Xiaokang Yang](http://www.sjtudri.com/page228) and [Prof. Wei Shen](https://shenwei1231.github.io/).
 
 - **2020/09 - 2023/03** I received the M.S. degree in the Department of Automation from Shanghai Jiao Tong University(上海交通大学), Shanghai, China, with **the National Scholarship!** 
 
@@ -64,6 +64,9 @@ Awards and Honors
 
 Academic Activities
 ---
+
+**Talks & Reports:**  
+[SJTU CS Global Lunch Seminar (上海交通大学计算机系全球午餐会)](https://www.bilibili.com/video/BV1btrjBYEV7/?spm_id_from=333.1387.list.card_archive.click&vd_source=49e1260e88ce19bcd2ee861d18592107) | [机器之心](https://mp.weixin.qq.com/s/dL9wH2XAktxnupl5-K73Aw) | [Journal of Image and Graphics (中国图像图形学报)](https://www.bilibili.com/video/BV1mcLvzYEdx/?spm_id_from=333.1387.list.card_archive.click&vd_source=49e1260e88ce19bcd2ee861d18592107) | [VALSE](https://www.bilibili.com/video/BV1zQ4y1j7YT/?spm_id_from=333.1387.list.card_archive.click&vd_source=49e1260e88ce19bcd2ee861d18592107) | [TechBeat](https://www.bilibili.com/video/BV1aG411o75t/?spm_id_from=333.1387.list.card_archive.click&vd_source=49e1260e88ce19bcd2ee861d18592107)
 
 **Journal Services**  
 - IEEE Transactions on Pattern Analysis and Machine Intelligence (IEEE TPAMI)
