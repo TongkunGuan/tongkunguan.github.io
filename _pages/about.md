@@ -23,6 +23,8 @@ Recently, I am interested in these areas:
 - Representation Learning
 - End-to-end Text Spotting
 
+Here is my CV [中文简历](https://github.com/TongkunGuan/tongkunguan.github.io/blob/master/assets/pdf/%E4%B8%8A%E4%BA%A4%E5%AE%98%E5%90%8C%E5%9D%A4.pdf).
+
 <span style="color: red;">**I am looking for a job~~**</span>
 
 Education Experience
