@@ -18,10 +18,10 @@ social: true  # includes social icons at the bottom of the page
 
 Hey, I am Tongkun Guan (官同坤), a final-year PhD student of computer science at Shanghai Jiao Tong University, China, supervised by Dr. Xiaokang Yang and Dr. Wei Shen. My Email: gtk0615@sjtu.edu.cn.
 
-Recently, I am interested in these areas:
+<!-- Recently, I am interested in these areas:
 - Multimodal Large Language Model
 - Representation Learning
-- End-to-end Text Spotting
+- End-to-end Text Spotting-->
 
 <span style="color: red;">**I am looking for a job~~**</span>
 
