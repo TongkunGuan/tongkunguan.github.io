@@ -40,7 +40,7 @@ and received the B.S. degree in Electrical Engineering and Automation from Hunan
 Internship Experience
 ---
 - **Meituan** Obtained technology application certification about MLLM
-- **Qwen** Focused on MLLM post-training
+- **Qwen** Focused on MLLM post-training，Qwen3/3.5/3.6/3.7/3.8/3.9/...
 
 <!--Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.-->
 
