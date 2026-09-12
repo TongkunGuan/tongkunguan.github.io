@@ -48,6 +48,7 @@ Internship Experience
 
 Awards and Honors
 --- 
+- **计算机85基金暨杨元庆教育基金-优秀博士生(全院博士4人)**，2026-9.
 - **National Scholarship for PhD**, 2025-9.
 - **Wu Honor Class (吴文俊人工智能荣誉博士班)**, 2024-3
 - Outstanding Graduate Student in Shanghai Jiao Tong University, 2022-12.
